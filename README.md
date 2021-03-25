@@ -1,6 +1,6 @@
 # isahres_scraper
 
-uses ishares .xlsx & .csv data to screen financial data of securities part of an ETF managed by ishares.
+uses ishares .xlsx & .csv data to screen financial data at yahoo finance of securities part of an ETF managed by ishares.
 Source file need to have at least column name "ISIN" or "Emittententicker". 
 
 How to via terminal: 
