@@ -8,3 +8,4 @@ How to via terminal:
 2. provide path to source file 
 3. accept scraping process <y>
 
+credits: yf fundamentals is provided by Matt Button - https://www.mattbutton.com/2019/01/24/how-to-scrape-yahoo-finance-and-extract-fundamental-stock-market-data-using-python-lxml-and-pandas/
